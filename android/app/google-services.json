@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356848090484",
+    "project_id": "redbus-5b113",
+    "storage_bucket": "redbus-5b113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356848090484:android:edf66914aaf4f7a41d0021",
+        "android_client_info": {
+          "package_name": "com.example.what"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356848090484-uf0u2c7tlko5390dmsp0khnh7uu2nssd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa-A34GNIFhxvfUqiR_AQXZT-sZGfzy4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356848090484-uf0u2c7tlko5390dmsp0khnh7uu2nssd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
